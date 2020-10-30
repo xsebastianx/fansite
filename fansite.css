@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+}
+
+#tyler {
+  width: 50%;
+}
+
+#header {
+  text-align: center;
+}
+
+#about {
+  float: right;
+  width: 40%;
+  margin-right: 5vw;
+}
+
+#disc {
+  text-align: center;
+  list-style-type: none;
+}
